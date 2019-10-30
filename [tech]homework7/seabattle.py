@@ -19,6 +19,6 @@ class Ship(object):
 class Shoot(object):
     def __init__(self, shooter, coordinate, is_hit):
         self.shooter = shooter
-        self.coordinte = coordinate
+        self.coordinate = coordinate
         self.is_hit = is_hit
 

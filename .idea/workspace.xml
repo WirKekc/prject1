@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="create seabattle.py and class Player">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tech]homework7/seabattle.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]homework7/seabattle.py" afterDir="false" />
-    </list>
+    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572448394150</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add classes Feild, Ship, Shoot">
+      <created>1572449458607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572449458607</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -242,7 +246,8 @@
     <MESSAGE value="make decoder1(canceled) and decoder2(timer)" />
     <MESSAGE value="make all decorator and map/filter/reduce" />
     <MESSAGE value="create seabattle.py and class Player" />
-    <option name="LAST_COMMIT_MESSAGE" value="create seabattle.py and class Player" />
+    <MESSAGE value="add classes Feild, Ship, Shoot" />
+    <option name="LAST_COMMIT_MESSAGE" value="add classes Feild, Ship, Shoot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
