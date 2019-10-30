@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="make all decorator and map/filter/reduce">
-      <change afterPath="$PROJECT_DIR$/[tech]homework7/seabattle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -194,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572446925103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create seabattle.py and class Player">
+      <created>1572448147773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572448147773</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -222,7 +226,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make decoder1(canceled) and decoder2(timer)" />
     <MESSAGE value="make all decorator and map/filter/reduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="make all decorator and map/filter/reduce" />
+    <MESSAGE value="create seabattle.py and class Player" />
+    <option name="LAST_COMMIT_MESSAGE" value="create seabattle.py and class Player" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
