@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gameOfLife.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameOfLife.py" beforeDir="false" afterPath="$PROJECT_DIR$/gameOfLife.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="http.certificates" />
@@ -38,18 +43,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/work" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.gameOfLife">
     <configuration name="decorator4" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -167,6 +160,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -276,6 +281,28 @@
     <MESSAGE value="add classes Feild, Ship, Shoot" />
     <MESSAGE value="class Ship update" />
     <option name="LAST_COMMIT_MESSAGE" value="class Ship update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="609" height="246" key="GridCell.Tab.0.bottom" timestamp="1575314674164">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="609" height="246" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575314674164" />
+    <state width="609" height="246" key="GridCell.Tab.0.center" timestamp="1575314674164">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="609" height="246" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1575314674164" />
+    <state width="609" height="246" key="GridCell.Tab.0.left" timestamp="1575314674164">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="609" height="246" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1575314674164" />
+    <state width="609" height="246" key="GridCell.Tab.0.right" timestamp="1575314674164">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="609" height="246" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575314674164" />
+    <state x="336" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1575309732974">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="315" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1575309732974" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
