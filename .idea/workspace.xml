@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
+    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="game of life ended. add short decision">
+      <change afterPath="$PROJECT_DIR$/[tech]homework7/clasWork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +44,8 @@
       <recent name="$PROJECT_DIR$/work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gameOfLife">
-    <configuration name="decorator4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.clasWork">
+    <configuration name="clasWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]homework7/decorator4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning/classWork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gameOfLife" />
+        <item itemvalue="Python.clasWork" />
         <item itemvalue="Python.seabattle" />
+        <item itemvalue="Python.gameOfLife" />
         <item itemvalue="Python.map1" />
         <item itemvalue="Python.decorator5" />
-        <item itemvalue="Python.decorator4" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575365254180</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="game of life ended. add short decision">
+      <created>1575366445012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575366445012</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -304,26 +312,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="game of life ended. add short decision" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575365253877">
+    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575442616598">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575365253877" />
-    <state width="976" height="245" key="GridCell.Tab.0.bottom" timestamp="1575364074675">
+    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575442616598" />
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575470982162">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="976" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575364074675" />
-    <state width="976" height="245" key="GridCell.Tab.0.center" timestamp="1575364074668">
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575470982162" />
+    <state width="973" height="245" key="GridCell.Tab.0.bottom" timestamp="1575459253944">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="976" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575364074668" />
-    <state width="976" height="245" key="GridCell.Tab.0.left" timestamp="1575364074662">
+    <state width="973" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575459253944" />
+    <state width="973" height="245" key="GridCell.Tab.0.center" timestamp="1575459253940">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="976" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575364074662" />
-    <state width="976" height="245" key="GridCell.Tab.0.right" timestamp="1575364074673">
+    <state width="973" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575459253940" />
+    <state width="973" height="245" key="GridCell.Tab.0.left" timestamp="1575459253939">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="976" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575364074673" />
+    <state width="973" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575459253939" />
+    <state width="973" height="245" key="GridCell.Tab.0.right" timestamp="1575459253941">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="973" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575459253941" />
     <state width="895" height="341" key="GridCell.Tab.1.bottom" timestamp="1575364005922">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -340,18 +352,18 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="895" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575364005921" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1575366437002">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1575442609243">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575366437002" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575442609243" />
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575365263988">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575365263988" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575356335469">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575458243362">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575356335469" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575458243362" />
     <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575355934507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
