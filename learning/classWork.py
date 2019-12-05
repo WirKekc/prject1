@@ -39,11 +39,30 @@
 #     print(f'{index}: {value}')
 
 # Написать генератор, который работает как zip()
-def gen_zip(el1,el2):
-    for i in range(len(el1)):
-        yield (el1[i], el2[i])
+# def gen_zip(el1,el2):
+#     for i in range(len(el1)):
+#         yield (el1[i], el2[i])
+#
+# a = [1,2,3]
+# b = ['a','b','c']
+# for i in gen_zip(a, b):
+#     print(i)
+# -------------------------------------------------
+import time
 
-a = [1,2,3]
-b = ['a','b','c']
-for i in gen_zip(a, b):
-    print(i)
+def decorator(func):
+    def fake(value):
+        start = time.clock()
+        result = func(value)
+        end = time.clock()
+        print(end - start)
+        return result
+    return fake
+
+def my_str(value):
+    return str(value)
+
+my_str = decorator(my_str)
+print(my_str(123))
+print(my_str([]))
+print(my_str({}))

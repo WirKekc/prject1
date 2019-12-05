@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/custom_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]homework6/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koch_curve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning/classWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/classWork.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +48,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/[tech]homework6" />
       <recent name="$PROJECT_DIR$/learning" />
       <recent name="$PROJECT_DIR$/work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.seabattle">
+  <component name="RunManager" selected="Python.koch_curve">
     <configuration name="clasWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,27 +79,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]homework7/decorator5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="gameOfLife" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +92,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gameOfLife.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="koch_curve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/koch_curve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.seabattle" />
+        <item itemvalue="Python.koch_curve" />
         <item itemvalue="Python.clasWork" />
+        <item itemvalue="Python.seabattle" />
         <item itemvalue="Python.gameOfLife" />
         <item itemvalue="Python.map1" />
-        <item itemvalue="Python.decorator5" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575471062433</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="del todo and files move to homework6">
+      <created>1575531861132</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575531861132</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -330,6 +330,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/todo" />
+    </ignored-roots>
     <MESSAGE value="make decoder1(canceled) and decoder2(timer)" />
     <MESSAGE value="make all decorator and map/filter/reduce" />
     <MESSAGE value="create seabattle.py and class Player" />
@@ -337,7 +340,8 @@
     <MESSAGE value="class Ship update" />
     <MESSAGE value="game of life ended. add short decision" />
     <MESSAGE value="do some classwork in lesson 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="do some classwork in lesson 8" />
+    <MESSAGE value="del todo and files move to homework6" />
+    <option name="LAST_COMMIT_MESSAGE" value="del todo and files move to homework6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1575531024709">
@@ -352,26 +356,26 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575442616598" />
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575471061620">
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575531860353">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575471061620" />
-    <state width="973" height="245" key="GridCell.Tab.0.bottom" timestamp="1575472331002">
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575531860353" />
+    <state width="1830" height="245" key="GridCell.Tab.0.bottom" timestamp="1575560029980">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="973" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331002" />
-    <state width="973" height="245" key="GridCell.Tab.0.center" timestamp="1575472331001">
+    <state width="1830" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575560029980" />
+    <state width="1830" height="245" key="GridCell.Tab.0.center" timestamp="1575560029978">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="973" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331001" />
-    <state width="973" height="245" key="GridCell.Tab.0.left" timestamp="1575472331000">
+    <state width="1830" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575560029978" />
+    <state width="1830" height="245" key="GridCell.Tab.0.left" timestamp="1575560029977">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="973" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331000" />
-    <state width="973" height="245" key="GridCell.Tab.0.right" timestamp="1575472331001">
+    <state width="1830" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575560029977" />
+    <state width="1830" height="245" key="GridCell.Tab.0.right" timestamp="1575560029978">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="973" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331001" />
+    <state width="1830" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575560029978" />
     <state width="895" height="341" key="GridCell.Tab.1.bottom" timestamp="1575364005922">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -388,18 +392,18 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="895" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575364005921" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1575442609243">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1575559382357">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575442609243" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575559382357" />
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575471069469">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575471069469" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575527840798">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575556263286">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575527840798" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575556263286" />
     <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575355934507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
