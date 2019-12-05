@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="WirKekc &lt;bk9419@yandex.ru&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PBxtSerij6CHhprC7ddxW2XwkD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learning" />
+      <recent name="$PROJECT_DIR$/work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clasWork">
+    <configuration name="clasWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning/classWork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decorator5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]homework7/decorator5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gameOfLife" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gameOfLife.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]homework7/mapFilterReduce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seabattle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]homework7/seabattle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clasWork" />
+        <item itemvalue="Python.seabattle" />
+        <item itemvalue="Python.gameOfLife" />
+        <item itemvalue="Python.map1" />
+        <item itemvalue="Python.decorator5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="" />
+      <created>1555593550672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555593550672</updated>
+    </task>
+    <task id="LOCAL-00001" summary="make decoder1(canceled) and decoder2(timer)">
+      <created>1572362767673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572362767673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="make decoder1(canceled) and decoder2(timer)">
+      <created>1572362827514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572362827514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="make all decorator and map/filter/reduce">
+      <created>1572446925103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572446925103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create seabattle.py and class Player">
+      <created>1572448147773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572448147773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create seabattle.py and class Player">
+      <created>1572448394150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572448394150</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add classes Feild, Ship, Shoot">
+      <created>1572449458607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572449458607</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add classes Feild, Ship, Shoot">
+      <created>1572449483170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572449483170</updated>
+    </task>
+    <task id="LOCAL-00008" summary="class Ship update">
+      <created>1572622181268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572622181268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="game of life ended. add short decision">
+      <created>1575365154684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575365154684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="game of life ended. add short decision">
+      <created>1575365237520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575365237520</updated>
+    </task>
+    <task id="LOCAL-00011" summary="game of life ended. add short decision">
+      <created>1575365254180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575365254180</updated>
+    </task>
+    <task id="LOCAL-00012" summary="game of life ended. add short decision">
+      <created>1575366445012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575366445012</updated>
+    </task>
+    <task id="LOCAL-00013" summary="do some classwork in lesson 8">
+      <created>1575471062433</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575471062433</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make decoder1(canceled) and decoder2(timer)" />
+    <MESSAGE value="make all decorator and map/filter/reduce" />
+    <MESSAGE value="create seabattle.py and class Player" />
+    <MESSAGE value="add classes Feild, Ship, Shoot" />
+    <MESSAGE value="class Ship update" />
+    <MESSAGE value="game of life ended. add short decision" />
+    <MESSAGE value="do some classwork in lesson 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="do some classwork in lesson 8" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Notifications" timestamp="1575471119403">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1575471119403" />
+    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575442616598">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575442616598" />
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575471061620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575471061620" />
+    <state width="973" height="245" key="GridCell.Tab.0.bottom" timestamp="1575472331002">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="973" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331002" />
+    <state width="973" height="245" key="GridCell.Tab.0.center" timestamp="1575472331001">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="973" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331001" />
+    <state width="973" height="245" key="GridCell.Tab.0.left" timestamp="1575472331000">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="973" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331000" />
+    <state width="973" height="245" key="GridCell.Tab.0.right" timestamp="1575472331001">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="973" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575472331001" />
+    <state width="895" height="341" key="GridCell.Tab.1.bottom" timestamp="1575364005922">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="895" height="341" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575364005922" />
+    <state width="895" height="341" key="GridCell.Tab.1.center" timestamp="1575364005920">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="895" height="341" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575364005920" />
+    <state width="895" height="341" key="GridCell.Tab.1.left" timestamp="1575364005917">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="895" height="341" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575364005917" />
+    <state width="895" height="341" key="GridCell.Tab.1.right" timestamp="1575364005921">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="895" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575364005921" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1575442609243">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575442609243" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575471069469">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575471069469" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575472593784">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575472593784" />
+    <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575355934507">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575355934507" />
+    <state x="640" y="288" width="707" height="528" key="find.popup" timestamp="1575471270680">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="640" y="288" width="707" height="528" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575471270680" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/caesarCipher.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lengthTranslator.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lengthTranslator.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Old LCD calculator.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cache function.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
