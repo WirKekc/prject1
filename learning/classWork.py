@@ -67,8 +67,16 @@
 # print(my_str([]))
 # print(my_str({}))
 
-X = input()
-Y = input()
-print('''{0} and {1} sat in the tree.
-{0} had fallen, {1} was stolen.
-What's remaining in the tree?'''.format(X, Y))
+# X = input()
+# Y = input()
+# print('''{0} and {1} sat in the tree.
+# {0} had fallen, {1} was stolen.
+# What's remaining in the tree?'''.format(X, Y))
+
+
+# print('_'.join(input().split()))
+
+# print(int(input())**int(input()))
+x = input()
+if not x:
+    print('x like false value!')
