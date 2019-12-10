@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/[tech]lesson9/classwork9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[tech]lesson9/homework9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[tech]lesson9/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[tech]lesson9/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning/classWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/classWork.py" afterDir="false" />
     </list>
@@ -53,7 +57,7 @@
       <recent name="$PROJECT_DIR$/work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.clasWork">
+  <component name="RunManager" selected="Python.homework9">
     <configuration name="clasWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gameOfLife" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="classwork9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +87,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]ClassWork9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gameOfLife.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]ClassWork9/classwork9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson9/homework9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,27 +134,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/koch_curve.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="map1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]homework7/mapFilterReduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework9" />
+        <item itemvalue="Python.classwork9" />
         <item itemvalue="Python.clasWork" />
         <item itemvalue="Python.koch_curve" />
         <item itemvalue="Python.seabattle" />
-        <item itemvalue="Python.gameOfLife" />
-        <item itemvalue="Python.map1" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575631943559</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="сделал еще парочку легких задачек">
+      <created>1575635134399</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575635134399</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -361,7 +372,8 @@
     <MESSAGE value="do koch" />
     <MESSAGE value="make graphic for koch" />
     <MESSAGE value="сделал легкое упражнение на А и Б" />
-    <option name="LAST_COMMIT_MESSAGE" value="сделал легкое упражнение на А и Б" />
+    <MESSAGE value="сделал еще парочку легких задачек" />
+    <option name="LAST_COMMIT_MESSAGE" value="сделал еще парочку легких задачек" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1575531024709">
@@ -376,54 +388,62 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575442616598" />
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575631943135">
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575635133853">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575631943135" />
-    <state width="1830" height="245" key="GridCell.Tab.0.bottom" timestamp="1575634207860">
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575635133853" />
+    <state width="459" height="466" key="DebuggerActiveHint" timestamp="1575961566319">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575634207860" />
-    <state width="1830" height="245" key="GridCell.Tab.0.center" timestamp="1575634207856">
+    <state width="459" height="466" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1575961566319" />
+    <state width="1830" height="245" key="GridCell.Tab.0.bottom" timestamp="1575985238469">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575634207856" />
-    <state width="1830" height="245" key="GridCell.Tab.0.left" timestamp="1575634207855">
+    <state width="1830" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575985238469" />
+    <state width="1830" height="245" key="GridCell.Tab.0.center" timestamp="1575985238467">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575634207855" />
-    <state width="1830" height="245" key="GridCell.Tab.0.right" timestamp="1575634207857">
+    <state width="1830" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575985238467" />
+    <state width="1830" height="245" key="GridCell.Tab.0.left" timestamp="1575985238466">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575634207857" />
-    <state width="1830" height="341" key="GridCell.Tab.1.bottom" timestamp="1575632594734">
+    <state width="1830" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575985238466" />
+    <state width="1830" height="245" key="GridCell.Tab.0.right" timestamp="1575985238468">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575632594734" />
-    <state width="1830" height="341" key="GridCell.Tab.1.center" timestamp="1575632594734">
+    <state width="1830" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575985238468" />
+    <state width="1830" height="341" key="GridCell.Tab.1.bottom" timestamp="1575964583098">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575632594734" />
-    <state width="1830" height="341" key="GridCell.Tab.1.left" timestamp="1575632594733">
+    <state width="1830" height="341" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583098" />
+    <state width="1830" height="341" key="GridCell.Tab.1.center" timestamp="1575964583097">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575632594733" />
-    <state width="1830" height="341" key="GridCell.Tab.1.right" timestamp="1575632594734">
+    <state width="1830" height="341" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583097" />
+    <state width="1830" height="341" key="GridCell.Tab.1.left" timestamp="1575964583096">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575632594734" />
+    <state width="1830" height="341" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583096" />
+    <state width="1830" height="341" key="GridCell.Tab.1.right" timestamp="1575964583098">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583098" />
+    <state x="576" y="289" width="824" height="526" key="IDE.errors.dialog" timestamp="1575981636151">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="289" width="824" height="526" key="IDE.errors.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575981636151" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1575630843148">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575630843148" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575635108331">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575635141113">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575635108331" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575619979688">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575635141113" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575965852805">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575619979688" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575965852805" />
     <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575355934507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -489,6 +509,11 @@
           <url>file://$PROJECT_DIR$/Cache function.py</url>
           <line>11</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learning/classWork.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

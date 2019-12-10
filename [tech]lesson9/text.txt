@@ -1,0 +1,22 @@
+{
+  "Date": "Tue, 10 Dec 2019 12:56:13 GMT",
+  "Content-Type": "application/json; charset=utf-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "Set-Cookie": "__cfduid=d94bc48ba603bb134d95ae4b33966b7af1575982573; expires=Thu, 09-Jan-20 12:56:13 GMT; path=/; domain=.typicode.com; HttpOnly",
+  "X-Powered-By": "Express",
+  "Vary": "Origin, Accept-Encoding",
+  "Access-Control-Allow-Credentials": "true",
+  "Cache-Control": "max-age=14400",
+  "Pragma": "no-cache",
+  "Expires": "-1",
+  "X-Content-Type-Options": "nosniff",
+  "Etag": "W/\"26831-8L/dCHuriTuxj+1OR5biYTSa5Yo\"",
+  "Content-Encoding": "gzip",
+  "Via": "1.1 vegur",
+  "CF-Cache-Status": "HIT",
+  "Age": "5015",
+  "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+  "Server": "cloudflare",
+  "CF-RAY": "542f60ad4cd7c2d1-FRA"
+}
