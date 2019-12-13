@@ -328,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575985510930</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="make homework 9">
+      <created>1576249719461</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576249719461</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -380,7 +387,8 @@
     <MESSAGE value="сделал легкое упражнение на А и Б" />
     <MESSAGE value="сделал еще парочку легких задачек" />
     <MESSAGE value="lesson 9 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 9 done" />
+    <MESSAGE value="make homework 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="make homework 9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1575531024709">
@@ -395,9 +403,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575442616598" />
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1575985510109">
+    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1576249718666">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
+    <state x="600" y="149" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576249718666" />
     <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575985510109" />
     <state width="459" height="466" key="DebuggerActiveHint" timestamp="1575961566319">
       <screen x="67" y="27" width="1853" height="1053" />
