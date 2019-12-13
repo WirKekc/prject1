@@ -47,11 +47,15 @@
 # Обратиться с странице https://habrahabr.ru/. Получить текст страницы.
 # При помощи регулярных выражений нужно получить все ссылки со страницы на другие
 
-import requests
-import re
+# import requests
+# import re
+#
+#
+# req = requests.get('https://habrahabr.ru/')
+# text = req.text
+# resault = re.findall(r'http[s]?[\w\d:/\._]+', text)
+# print(resault)
 
-
-req = requests.get('https://habrahabr.ru/')
-text = req.text
-resault = re.findall(r'http[s]?[\w\d:/\._]*', text)
-print(resault)
+import os
+print(os.getcwd())
+print('/home/dmitry/PycharmProjects/project1/[tech]lesson9'==os.getcwd())
