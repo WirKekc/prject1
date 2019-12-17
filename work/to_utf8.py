@@ -1,7 +1,7 @@
 import csv
 
 text = []
-with open('inst_errors.csv') as a:
+with open('inst_pws_err.csv') as a:
     reader = csv.reader(a, delimiter=";")
     for line in reader:
         # b = line[1].encode('windows-1251').decode('utf8')
