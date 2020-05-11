@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="do homework11">
-      <change afterPath="$PROJECT_DIR$/[tech]lesson5/classWork5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[tech]lesson5/homework5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seabattle/main.py" afterDir="false" />
+    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/[tech]lesson6/classwork6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/custom_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/custom_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[tech]homework6/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson6/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +47,23 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\prject1\stepik.org" />
       <recent name="$PROJECT_DIR$/[tech]lesson10/files" />
       <recent name="$PROJECT_DIR$/[tech]homework6" />
       <recent name="$PROJECT_DIR$/learning" />
       <recent name="$PROJECT_DIR$/work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.homework5">
+  <component name="RunManager" selected="Python.classwork6">
     <configuration name="classWork5 (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classwork11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classwork6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson11/classwork11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson6/classwork6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classwork6" />
         <item itemvalue="Python.homework5" />
         <item itemvalue="Python.classWork5" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.homework11" />
-        <item itemvalue="Python.classwork11" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582805916775</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="do homework5">
+      <created>1589203526658</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589203526658</updated>
+    </task>
+    <task id="LOCAL-00025" summary="moved to stepik.org">
+      <created>1589203784103</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1589203784103</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -405,92 +432,94 @@
     <MESSAGE value="do some works" />
     <MESSAGE value="do homework10" />
     <MESSAGE value="do homework11" />
-    <option name="LAST_COMMIT_MESSAGE" value="do homework11" />
+    <MESSAGE value="do homework5" />
+    <MESSAGE value="moved to stepik.org" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved to stepik.org" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="120" width="777" height="807" key="CommitChangelistDialog2" timestamp="1582805928773">
+    <state x="552" y="120" width="777" height="807" key="CommitChangelistDialog2" timestamp="1589203783563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582805928773" />
+    <state x="552" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589203783563" />
     <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1588937828865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588937828865" />
-    <state width="945" height="279" key="GridCell.Tab.0.bottom" timestamp="1589203438510">
+    <state width="938" height="281" key="GridCell.Tab.0.bottom" timestamp="1589221357110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="945" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
-    <state width="945" height="279" key="GridCell.Tab.0.center" timestamp="1589203438510">
+    <state width="938" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589221357110" />
+    <state width="938" height="281" key="GridCell.Tab.0.center" timestamp="1589221357110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="945" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
-    <state width="945" height="279" key="GridCell.Tab.0.left" timestamp="1589203438510">
+    <state width="938" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589221357110" />
+    <state width="938" height="281" key="GridCell.Tab.0.left" timestamp="1589221357110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="945" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
-    <state width="945" height="279" key="GridCell.Tab.0.right" timestamp="1589203438510">
+    <state width="938" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589221357110" />
+    <state width="938" height="281" key="GridCell.Tab.0.right" timestamp="1589221357110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="945" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
+    <state width="938" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589221357110" />
     <state x="423" y="159" key="SettingsEditor" timestamp="1580582385736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="423" y="159" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580582385736" />
-    <state x="540" y="258" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582805942951">
+    <state x="540" y="258" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1589203787378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582805942951" />
+    <state x="540" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589203787378" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
           <line>14</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
           <line>8</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/spiralMatrix.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/caesarCipher.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/caesarCipher.py</url>
           <line>7</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lengthTranslator.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/lengthTranslator.py</url>
           <line>1</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lengthTranslator.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/lengthTranslator.py</url>
           <line>2</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Old LCD calculator.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/Old LCD calculator.py</url>
           <line>30</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Cache function.py</url>
+          <url>file://$PROJECT_DIR$/stepik.org/Cache function.py</url>
           <line>11</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
