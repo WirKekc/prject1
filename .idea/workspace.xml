@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[tech]lesson11/homework11.py" afterDir="false" />
+    <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="do homework11">
+      <change afterPath="$PROJECT_DIR$/[tech]lesson5/classWork5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[tech]lesson5/homework5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seabattle/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tech]lesson11/classwork11.py" beforeDir="false" afterPath="$PROJECT_DIR$/[tech]lesson11/classwork11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,23 +28,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1PBxtSerij6CHhprC7ddxW2XwkD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -56,8 +50,8 @@
       <recent name="$PROJECT_DIR$/work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.homework11">
-    <configuration name="classwork10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.homework5">
+    <configuration name="classWork5 (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +59,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson10/basic_flask.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson5/classWork5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classWork5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]homework5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm\prject1\[tech]homework5\classWork5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,27 +114,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson10/homework10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="homework11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tets1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="homework5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +143,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/del_duplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson5/homework5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seabattle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seabattle/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,25 +179,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework5" />
+        <item itemvalue="Python.classWork5" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.homework11" />
         <item itemvalue="Python.classwork11" />
-        <item itemvalue="Python.homework10" />
-        <item itemvalue="Python.classwork10" />
-        <item itemvalue="Python.tets1" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -349,17 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1576669724819</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="do homework11">
+      <created>1582805916775</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1582805916775</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -376,13 +377,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -404,108 +404,42 @@
     <MESSAGE value="make homework 9" />
     <MESSAGE value="do some works" />
     <MESSAGE value="do homework10" />
-    <option name="LAST_COMMIT_MESSAGE" value="do homework10" />
+    <MESSAGE value="do homework11" />
+    <option name="LAST_COMMIT_MESSAGE" value="do homework11" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1575531024709">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1575531024709" />
-    <state x="588" y="214" width="800" height="677" key="#Notifications" timestamp="1575471119403">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="588" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1575471119403" />
-    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576664415299">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="676" y="280" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576664415299" />
-    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575442616598" />
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2" timestamp="1576669724081">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576669724081" />
-    <state x="600" y="149" width="777" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1575985510109" />
-    <state width="459" height="466" key="DebuggerActiveHint" timestamp="1575961566319">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="459" height="466" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1575961566319" />
-    <state width="609" height="246" key="GridCell.Tab.0.bottom" timestamp="1582804963386">
+    <state x="552" y="120" width="777" height="807" key="CommitChangelistDialog2" timestamp="1582805928773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="609" height="246" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1579238643621" />
-    <state width="609" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582804963386" />
-    <state width="1830" height="279" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576670383857" />
-    <state width="1830" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1576242723822" />
-    <state width="609" height="246" key="GridCell.Tab.0.center" timestamp="1582804963386">
+    <state x="552" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582805928773" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1588937828865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="609" height="246" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1579238643621" />
-    <state width="609" height="246" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582804963386" />
-    <state width="1830" height="279" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576670383857" />
-    <state width="1830" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1576242723820" />
-    <state width="609" height="246" key="GridCell.Tab.0.left" timestamp="1582804963386">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588937828865" />
+    <state width="945" height="279" key="GridCell.Tab.0.bottom" timestamp="1589203438510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="609" height="246" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1579238643621" />
-    <state width="609" height="246" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582804963386" />
-    <state width="1830" height="279" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576670383857" />
-    <state width="1830" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1576242723819" />
-    <state width="609" height="246" key="GridCell.Tab.0.right" timestamp="1582804963386">
+    <state width="945" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
+    <state width="945" height="279" key="GridCell.Tab.0.center" timestamp="1589203438510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="609" height="246" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1579238643621" />
-    <state width="609" height="246" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582804963386" />
-    <state width="1830" height="279" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576670383857" />
-    <state width="1830" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1576242723821" />
-    <state width="1830" height="341" key="GridCell.Tab.1.bottom" timestamp="1575964583098">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="945" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
+    <state width="945" height="279" key="GridCell.Tab.0.left" timestamp="1589203438510">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583098" />
-    <state width="1830" height="341" key="GridCell.Tab.1.center" timestamp="1575964583097">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="945" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
+    <state width="945" height="279" key="GridCell.Tab.0.right" timestamp="1589203438510">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583097" />
-    <state width="1830" height="341" key="GridCell.Tab.1.left" timestamp="1575964583096">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583096" />
-    <state width="1830" height="341" key="GridCell.Tab.1.right" timestamp="1575964583098">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575964583098" />
-    <state x="576" y="289" width="824" height="526" key="IDE.errors.dialog" timestamp="1576591184387">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="576" y="289" width="824" height="526" key="IDE.errors.dialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576591184387" />
-    <state x="576" y="289" width="824" height="526" key="IDE.errors.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575981636151" />
+    <state width="945" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589203438510" />
     <state x="423" y="159" key="SettingsEditor" timestamp="1580582385736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="282" y="150" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1579199694928" />
     <state x="423" y="159" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580582385736" />
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1576241122157" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1576669730979">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="540" y="258" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582805942951">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576669730979" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575985521174" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576670942628">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576670942627" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576239362839" />
-    <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575355934507">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="761" y="473" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1575355934507" />
-    <state x="640" y="288" width="707" height="528" key="find.popup" timestamp="1575471270680">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="640" y="288" width="707" height="528" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575471270680" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575630852005">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575630852005" />
+    <state x="540" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582805942951" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
