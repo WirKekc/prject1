@@ -58,4 +58,4 @@
 
 import os
 print(os.getcwd())
-print('/home/dmitry/PycharmProjects/project1/[tech]lesson9'==os.getcwd())
+print('/home/dmitry/PycharmProjects/project1/[tceh]lesson9' == os.getcwd())
