@@ -1,0 +1,7 @@
+Записи в книге:
+{% for item in notes %}
+    Запись: {{ item.note_in_book }}
+    Автор: {{ item.author }}
+    Дата: {{ item.date_create }}
+{% endfor %}
+Конец записей
