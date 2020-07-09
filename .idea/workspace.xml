@@ -2,41 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tceh_lesson13/Homework13/templates/all_notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/decorator1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/decorator1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/decorator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/decorator2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/decorator3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/decorator3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/decorator4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/decorator4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/decorator5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/decorator5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/mapFilterReduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/mapFilterReduce.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]homework7/seabattle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_homework7/seabattle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson10/basic_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson10/basic_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson10/files/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson10/files/hello.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson10/form_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson10/form_flask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson10/homework10.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson10/homework10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson11/classwork11.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson11/classwork11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson11/homework11.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson11/homework11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson12/classWork12.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson12/classWork12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson5/classWork5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson5/classWork5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson5/homework5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson5/homework5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/classwork6.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/classwork6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/custom_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/custom_exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/todo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/todo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/todo/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/todo/commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/todo/custom_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/todo/custom_exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/todo/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/todo/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/todo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/todo/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/todo/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/todo/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson6/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson6/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson9/classwork9.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson9/classwork9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson9/homework9.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson9/homework9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson9/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson9/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[tceh]lesson9/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson9/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson13/Homework13/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson13/Homework13/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson13/Homework13/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson13/Homework13/test.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson13/classWork13.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson13/classWork13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson13/people.db" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson13/people.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson9/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson9/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,58 +43,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/requirements.txt" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tceh_lesson13/Homework13/templates" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings>
-        <option name="useSoftWraps" value="true" />
-      </console-settings>
-    </option>
+    <property name="settings.editor.splitter.proportion" value="0.27619982" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tceh_lesson13/Homework13/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PyCharm\prject1\tceh_lesson13\Homework13\templates" />
-      <recent name="D:\PyCharm\prject1\[tceh]lesson13\Homework13a" />
-      <recent name="D:\PyCharm\prject1\[tceh]lesson13\Homework13" />
-      <recent name="D:\PyCharm\prject1\stepik.org" />
+      <recent name="$PROJECT_DIR$/tceh_lesson14" />
       <recent name="$PROJECT_DIR$/[tech]lesson10/files" />
+      <recent name="$PROJECT_DIR$/[tech]homework6" />
+      <recent name="$PROJECT_DIR$/learning" />
+      <recent name="$PROJECT_DIR$/work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (2)">
-    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tceh]lesson13/Homework13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tceh]lesson13/Homework13/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tceh_lesson13/Homework13" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -127,49 +75,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tceh_lesson13/Homework13/app.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tceh]lesson13/Homework13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PyCharm\prject1\[tceh]lesson13\Homework13a\app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="classWork13 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tceh]lesson13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tceh]lesson13/classWork13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -184,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tceh_lesson13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson13/classWork13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tceh_lesson13/classWork13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classWork5 (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="homework10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +111,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson5/classWork5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson10/homework10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tets1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/del_duplicates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="to_utf8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/to_utf8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app (2)" />
-        <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.classWork13 (1)" />
         <item itemvalue="Python.classWork13" />
+        <item itemvalue="Python.homework10" />
+        <item itemvalue="Python.tets1" />
+        <item itemvalue="Python.to_utf8" />
       </list>
     </recent_temporary>
   </component>
@@ -393,64 +341,17 @@
       <option name="project" value="LOCAL" />
       <updated>1576669724819</updated>
     </task>
-    <task id="LOCAL-00023" summary="do homework11">
-      <created>1582805916775</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1582805916775</updated>
-    </task>
-    <task id="LOCAL-00024" summary="do homework5">
-      <created>1589203526658</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1589203526658</updated>
-    </task>
-    <task id="LOCAL-00025" summary="moved to stepik.org">
-      <created>1589203784103</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1589203784103</updated>
-    </task>
-    <task id="LOCAL-00026" summary="first part classwork6">
-      <created>1589225686394</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1589225686394</updated>
-    </task>
-    <task id="LOCAL-00027" summary="make todo. homework6">
-      <created>1589275290162</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1589275290162</updated>
-    </task>
-    <task id="LOCAL-00028" summary="rename dirs. change tech to tceh">
-      <created>1589292222101</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1589292222101</updated>
-    </task>
-    <task id="LOCAL-00029" summary="classWork13 part 1">
-      <created>1589312614087</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1589312614087</updated>
-    </task>
-    <task id="LOCAL-00030" summary="homework13">
-      <created>1589664173077</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1589664173077</updated>
-    </task>
-    <option name="localTasksCounter" value="31" />
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -475,7 +376,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/todo" />
     </ignored-roots>
@@ -495,115 +395,53 @@
     <MESSAGE value="make homework 9" />
     <MESSAGE value="do some works" />
     <MESSAGE value="do homework10" />
-    <MESSAGE value="do homework11" />
-    <MESSAGE value="do homework5" />
-    <MESSAGE value="moved to stepik.org" />
-    <MESSAGE value="first part classwork6" />
-    <MESSAGE value="make todo. homework6" />
-    <MESSAGE value="rename dirs. change tech to tceh" />
-    <MESSAGE value="classWork13 part 1" />
-    <MESSAGE value="homework13" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework13" />
+    <option name="LAST_COMMIT_MESSAGE" value="do homework10" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1244" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589392350023">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="701" y="355" width="579" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594289499070">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="1244" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589392350023" />
-    <state x="552" y="120" width="777" height="807" key="CommitChangelistDialog2" timestamp="1589664170808">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="701" y="355" width="579" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1594289499070" />
+    <state x="731" y="406" width="518" height="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594109582205">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="552" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589664170808" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589226156581">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="731" y="406" width="518" height="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1848.1053@72.27.1848.1053" timestamp="1594109582205" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594109596647">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589226156581" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1589392359576">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1594109596647" />
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom" timestamp="1594289412121">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589392359576" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1589664190089">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1594289412121" />
+    <state width="1825" height="275" key="GridCell.Tab.0.center" timestamp="1594289412119">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1589664190089">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1594289412119" />
+    <state width="1825" height="275" key="GridCell.Tab.0.left" timestamp="1594289412119">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1589664190089">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1594289412119" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right" timestamp="1594289412120">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1589664190089">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1594289412120" />
+    <state x="842" y="159" width="1022" height="737" key="SettingsEditor" timestamp="1594124011779">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state x="922" y="168" key="SettingsEditor" timestamp="1589649129258">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="842" y="159" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1594124011779" />
+    <state x="766" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594108141170">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589649129258" />
-    <state x="540" y="258" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1589664176869">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="766" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1594108141170" />
+    <state x="658" y="272" key="search.everywhere.popup" timestamp="1594111334349">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="540" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589664176869" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589664155780">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589664155780" />
+    <state x="658" y="272" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1594111334349" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/spiralMatrix.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/caesarCipher.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/lengthTranslator.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/lengthTranslator.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/Old LCD calculator.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/stepik.org/Cache function.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/learning/classWork.py</url>
           <line>85</line>

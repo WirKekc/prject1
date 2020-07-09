@@ -37,6 +37,13 @@ class Person(db.Model):
             'job': self.job
         }
 
+    def to_json(self):
+        return {
+            'id': self.id,
+            'name': self.name,
+            'age': self.age,
+            'job': self.job
+        }
 
 @app.route('/')
 def index():
@@ -50,19 +57,19 @@ def index():
     sub = db.session.query(
         func.min(Person.age).label('min_age')
     ).subquery()
-    youngerst = Person.query.join(
+    youngest = Person.query.join(
         sub, sub.c.min_age == Person.age
     ).first()
 
-    return jsonify([p.to_dict() for p in people])
-    #     jsonify({
-    #     'people': [p.to_json() for p in people],
-    #     'by_name': by_name.to_json(),
-    #     'by_age': [p.to_json() for p in by_age],
-    #     'by_job': [p.to_json() for p in by_job],
-    #
-    #     'youngest': youngest.to_json(),
-    # })
+    #return jsonify([p.to_dict() for p in people])
+    return jsonify({
+        'people': [p.to_json() for p in people],
+        'by_name': by_name.to_json(),
+        'by_age': [p.to_json() for p in by_age],
+        'by_job': [p.to_json() for p in by_job],
+
+        'youngest': youngest.to_json(),
+    })
 
 
 if __name__ == '__main__':

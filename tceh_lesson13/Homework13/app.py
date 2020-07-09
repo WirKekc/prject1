@@ -59,7 +59,7 @@ def all_notes():
     for note in notes:
         print(author, note_in_book)
         print(note.author, note.note_in_book)
-    return render_template('all_notes.txt', notes=notes)
+    return render_template('all_notes.html', notes=notes)
 
 
 def populate_db():
