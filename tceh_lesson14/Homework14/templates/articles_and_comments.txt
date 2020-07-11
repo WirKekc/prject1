@@ -1,0 +1,10 @@
+Записи в книге:
+{% for item in article_notes %}
+    Запись: {{ item.article_text }}
+    Дата: {{ item.date_create }}
+    {% for item in post_notes %}
+        Комментарий: {{ item.article_text }}
+        Дата: {{ item.date_create }}
+    {% endfor %}
+{% endfor %}
+Конец записей
