@@ -11,3 +11,6 @@ class ArticleForm(ModelForm):
 class PostForm(ModelForm):
     class Meta:
         model = Post
+        include = [
+            'article_id',
+        ]

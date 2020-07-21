@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3be8c5c4-0a78-4823-a2f6-382ee9c61264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/work/table1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/table1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tceh_lesson14/Homework14/hw14.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tceh_lesson14/Homework14/templates/comments_only.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tceh_lesson14/Classwork14/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson14/Classwork14/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson14/Classwork14/simple_foreign_keys/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson14/Classwork14/simple_foreign_keys/test.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson14/Homework14/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson14/Homework14/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson14/Homework14/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson14/Homework14/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson14/Homework14/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson14/Homework14/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tceh_lesson14/Homework14/templates/articles_and_comments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tceh_lesson14/Homework14/templates/articles_and_comments.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +64,7 @@
       <recent name="$PROJECT_DIR$/[tech]lesson10/files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (2)">
+  <component name="RunManager" selected="Python.app (3)">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +107,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tceh_lesson14/Homework14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tceh_lesson14/Homework14/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,48 +141,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\PyCharm\prject1\[tceh]lesson13\Homework13a\app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="classWork13 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tceh]lesson13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tceh]lesson13/classWork13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="classWork13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[tech]lesson13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[tech]lesson13/classWork13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,13 +170,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="with_objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tceh_lesson14/Classwork14/simple_foreign_keys" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tceh_lesson14/Classwork14/simple_foreign_keys/with_objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (3)" />
+        <item itemvalue="Python.with_objects" />
         <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.classWork13 (1)" />
-        <item itemvalue="Python.classWork13" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589664173077</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update requirements.txt">
+      <created>1594454928726</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1594454928726</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -472,17 +483,18 @@
     <MESSAGE value="rename dirs. change tech to tceh" />
     <MESSAGE value="classWork13 part 1" />
     <MESSAGE value="homework13" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework13" />
+    <MESSAGE value="update requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="update requirements.txt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1244" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589392350023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1244" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589392350023" />
-    <state x="552" y="120" width="777" height="807" key="CommitChangelistDialog2" timestamp="1589664170808">
+    <state x="552" y="120" width="777" height="807" key="CommitChangelistDialog2" timestamp="1594454927421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589664170808" />
+    <state x="552" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594454927421" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589226156581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -491,30 +503,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589392359576" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1589664190089">
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1595363239086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1589664190089">
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595363239086" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1595363239086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1589664190089">
+    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595363239086" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1595363239086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1589664190089">
+    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595363239086" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1595363239086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589664190089" />
-    <state x="922" y="168" key="SettingsEditor" timestamp="1589649129258">
+    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595363239086" />
+    <state x="922" y="168" key="SettingsEditor" timestamp="1594454724880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589649129258" />
-    <state x="540" y="258" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1589664176869">
+    <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594454724880" />
+    <state x="540" y="258" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1594454932252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589664176869" />
+    <state x="540" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594454932252" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589664155780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

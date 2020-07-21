@@ -3,7 +3,7 @@
     Запись: {{ item.article_text }}
     Дата: {{ item.date_create }}
     {% for item in post_notes %}
-        Комментарий: {{ item.article_text }}
+        Комментарий: {{ item.post_text }}
         Дата: {{ item.date_create }}
     {% endfor %}
 {% endfor %}

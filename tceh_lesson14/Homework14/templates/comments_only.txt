@@ -1,0 +1,6 @@
+Комментарии пользователей:
+{% for item in post_notes %}
+    Комментарий: {{ item.post_text }}
+    Дата: {{ item.date_create }}
+{% endfor %}
+Конец комментариев
